@@ -18,8 +18,7 @@ A predictive model that classifies underwater objects as either rocks or mines u
 SONAR-Rock-vs-Mine-Prediction/
 ├── SONAR_Rock_vs_Mine_Prediction.ipynb  # Main notebook
 ├── sonar_data.csv                        # Dataset file
-├── README.md                             # Project documentation
-└── requirements.txt                      # Dependencies
+└── README.md                             # Project documentation
 ```
 
 ## 📈 Model Performance
